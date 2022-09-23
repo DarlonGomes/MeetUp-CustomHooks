@@ -1,7 +1,7 @@
 import React from "react";
 
 function WelcomePage() {
-  return <></>;
+  return <>Oi</>;
 }
 
 export default WelcomePage;
